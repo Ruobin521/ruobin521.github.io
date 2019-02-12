@@ -85,7 +85,7 @@ collections:
         output: true
         permalink: /wiki/:path/
 
-repository: DWJWendy/DWJWendy.github.io
+repository: Ruobin521/ruobin521.github.io
 
 # ---------------- # 
 #      Comments    #
@@ -99,7 +99,7 @@ comments_provider: gitalk
 # !!!Important!!! Please modify infos below to yours
 # https://disqus.com
 disqus:
-    username: wenjun d
+    username: 
 
     
 # https://imsun.net/posts/gitment-introduction/
