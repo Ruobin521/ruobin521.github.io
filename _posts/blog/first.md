@@ -1,9 +1,9 @@
 ---
 layout: post
-title: template page
-categories: [cate1, cate2]
-description: some word here
-keywords: keyword1, keyword2
+title: 新浪微博爬虫
+categories: Spider
+description: 微博博文爬取包括基本博文数据和评论数据
+keywords: sina、weibo、爬虫
 ---
 
 Content here
