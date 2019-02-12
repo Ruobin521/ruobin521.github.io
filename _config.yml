@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://ruobin521.github.io/
+url: https://ruobin521.github.io
 date_format: "ordinal"
 title: Dang
 subtitle: "Dang's Personal Blog"
@@ -17,7 +17,7 @@ side_bar_repo_limit: 5
 # ---------------- #
 author: Dang
 organization: Farmer
-organization_url: https://ruobin521.github.io/
+organization_url: https://ruobin521.github.io
 github_username: Ruobin521
 location: Beijing
 email: ruobin521@gmail.com
