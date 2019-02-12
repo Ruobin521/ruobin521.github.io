@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: http://mmcwendy.info
+url: https://ruobin521.github.io/
 date_format: "ordinal"
 title: 毛毛虫_Wendy
 subtitle: "Wendy's Personal Blog"
@@ -15,12 +15,12 @@ side_bar_repo_limit: 5
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Wendy
-organization: UESTC
-organization_url: http://mmcwendy.info
-github_username: DWJWendy
-location: Chengdu, sichuan
-email: dengwenjun818@gmail.com
+author: Dang
+organization: formar
+organization_url: https://ruobin521.github.io/
+github_username: Dang
+location: Beijing
+email: ruobin521@gmail.com
 
 # ---------------- #
 #    Navigation    #
