@@ -31,28 +31,28 @@ navs:
     label: Home
 
 
-  -
-    href: /categories/
-    label: Blog
+  # -
+  #   href: /categories/
+  #   label: Blog
    
 
 
-  -
-    href: /open-source/
-    label: Open-source
+  # -
+  #   href: /open-source/
+  #   label: Open-source
    
 
-  -
-    href: /wiki/
-    label: Wiki
+  # -
+  #   href: /wiki/
+  #   label: Wiki
 
-  -
-    href: /links/
-    label: Link
+  # -
+  #   href: /links/
+  #   label: Link
 
-  -
-    href: /about/
-    label: About
+  # -
+  #   href: /about/
+  #   label: About
 
 # ---------------- #
 #       RSS        #
