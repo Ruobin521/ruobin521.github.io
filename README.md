@@ -1,23 +1,11 @@
-# 毛毛虫_Wendy
+# Dang
 
 我的个人博客：<http://mmcwendy.info>，欢迎 Star 和 Fork。
 
 ## 概览
 
 <!-- vim-markdown-toc GFM -->
-
-* [效果预览](#效果预览)
-* [Fork 指南](#fork-指南)
-* [经验与思考](#经验与思考)
-* [致谢](#致谢)
-
 <!-- vim-markdown-toc -->
-
-## 效果预览
-
-**[在线预览 &rarr;](http://mmcwendy.info)**
-
-![screenshot home](http://mmcwendy.info/assets/images/screenshots/home.png)
 
 ## Fork 指南
 
