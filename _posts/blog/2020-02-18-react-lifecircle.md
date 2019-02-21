@@ -10,6 +10,6 @@ keywords: react， note
 2. constructor不算是生命周期函数。在组件创建的时刻被调用
 
 ### HOW
-![生命周期图片](../../images/life_circle.png)
+![生命周期图片](/images/life_circle.png)
 1. initialization -> 挂载(Mounting) -> Updation -> Unmounting 
  
