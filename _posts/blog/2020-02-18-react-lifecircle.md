@@ -13,3 +13,9 @@ keywords: react， note
 ![生命周期图片](/images/life_circle.png)
 1. initialization -> 挂载(Mounting) -> Updation -> Unmounting 
  
+#### initialization: setup pros and state
+#### Mounting: componentsWillMout -> render -> componentsDidMount
+#### updation : componentsWillReceiveProps -> shouldComponentsUpdate -> componentsWillUpdate -> render -> componentsDidUpdate 
+#### ummounting: componentWillUnmount
+
+### WHEN
